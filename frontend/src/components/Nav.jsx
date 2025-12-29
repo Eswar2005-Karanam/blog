@@ -14,7 +14,7 @@ export default function Nav() {
   };
 
   return (
-    <nav className="bg-white shadow-sm">
+    <nav className="bg-Black shadow-sm">
       <div className="container mx-auto max-w-4xl px-4">
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="text-xl font-bold text-gray-800">
